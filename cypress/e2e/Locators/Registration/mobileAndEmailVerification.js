@@ -1,1 +1,3 @@
-export class mobileAndEmailVerification{}
+export class mobileAndEmailVerification{
+    
+}
